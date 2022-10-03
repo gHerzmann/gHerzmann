@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  I'm a software engineer, with a bachelor's degree in Electrical Engineering⚡, currently working at Smart Agri working on software development using technologies such as Python, AWS and Web frameworks. I also have knowledge in electronics, embedded Linux and machine learning.
+  I'm a software engineer, with a bachelor's degree in Electrical Engineering⚡, currently working at Encora developing cloud computing solutions. I also have experience with Python, AWS, Web frameworks, electronics, embedded Linux and machine learning.
   <br>
   <br>
   👨‍💻 I like to build things with Python, Docker, AWS and modern backend APIs.
@@ -37,6 +37,8 @@
   <img title="Numpy" height="25" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
   <img title="Pytorch" height="25" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
   <img title="Jupyter" height="25" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+  <img title="Ansible" height="25" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white">
+  <img title="Kubernetes" height="25" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img title="VSCode" height="25" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img title="Linux" height="25" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img title="Neovim" height="25" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
