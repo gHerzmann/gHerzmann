@@ -1,9 +1,6 @@
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=gHerzmann">
-<br>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=&size=30&duration=3300&color=1EA4FF&center=true&vCenter=true&width=550&height=32&lines=Hello%2C+there!;This+is+Gustavo+Herzmann...;Nice+to+meet+you!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=&size=30&duration=3300&color=1EA4FF&center=true&vCenter=true&width=550&height=32&lines=Hello%2C+there!;Nice+to+meet+you!">
   </a>
 </h1>
 
@@ -55,9 +52,4 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=gHerzmann&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true"/>
     </a>
   </div>
-  <div class="container" style="Margin-Top:177px;">
-    <img src="https://activity-graph.herokuapp.com/graph?username=gHerzmann&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  </div>
 </p>
-
-<hr>
