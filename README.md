@@ -10,7 +10,7 @@
   <br>
   👨‍💻 I like to build things with Python, Docker, AWS and modern backend APIs.
   <br>
-  🔬 I am currently studying for my AWS Certification
+  🔬 <s> I am currently studying for my AWS Certification </s> I just got the AWS Solutions Architect Associate certificate!
   <br>
   🎓 I have a bachelor's degree in electrical engineering
   <br>
